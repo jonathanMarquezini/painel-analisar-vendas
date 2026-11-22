@@ -1,4 +1,4 @@
-# 📈 Sales Analytics 360
+# 📈 Sales Analytics 360 - (Segundo Projeto Criado)
 
 Projeto de inteligência comercial desenvolvido no **Power BI** a partir de **banco de dados**, estruturado em cinco visões integradas para acompanhar desempenho de vendas, evolução temporal, catálogo de produtos, base de clientes e performance da força de vendas.
 
